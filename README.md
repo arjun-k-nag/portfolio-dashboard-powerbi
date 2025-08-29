@@ -33,7 +33,7 @@ Provide insights about each stock and establish correlation in stock price movem
 4. Add the Ticker column and add Ticker name of each Script and save the file as **Holdings.csv*.
 5. The new csv should look like this:
    
- <img width="940" height="113" alt="image" src="https://github.com/user-attachments/assets/f2e94524-cf75-4528-b360-43087b0b47f6" />
+<img width="1724" height="208" alt="image" src="https://github.com/user-attachments/assets/65d01ae1-2197-456f-abb6-b0cd944a95b0" />
 
 
 **Step-2** **Prepare nse closing price history data*
@@ -50,9 +50,17 @@ Output csv file:
 <img width="359" height="503" alt="image" src="https://github.com/user-attachments/assets/2321ac1b-6ef6-4191-b70d-372dc3faa6b2" />
 
 
+**Step-2**
 Now, we have 2 csv files prepared to load into Power BI.
+Open .pbix file and load the data into the dashboard.
 
 ----------------------------------------------------------------------------------------------------------------
+## Schema
+
+<img width="940" height="749" alt="image" src="https://github.com/user-attachments/assets/05b83eea-270d-46fb-8c02-d4a4558d7806" />
+
+
+
 ## 📷 Preview
 
 
