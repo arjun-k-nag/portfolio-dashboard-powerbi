@@ -1,4 +1,4 @@
-# AngelOne-Portfolio-Dashboard-Powerbi
+# AngelOne-Portfolio-Dashboard-PowerBI
 
 This is a **Portfolio Analysis Dashboard** created in Power BI.  
 It shows insights into stock performance, asset allocation, and portfolio growth.
