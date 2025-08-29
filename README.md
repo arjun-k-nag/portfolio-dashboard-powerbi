@@ -54,12 +54,12 @@ Output csv file:
 Now, we have 2 csv files prepared to load into Power BI.
 Open .pbix file and load the data into the dashboard.
 
-----------------------------------------------------------------------------------------------------------------
-## Schema
+
+## 🔗 Schema
 
 <img width="940" height="749" alt="image" src="https://github.com/user-attachments/assets/05b83eea-270d-46fb-8c02-d4a4558d7806" />
 
-
+----------------------------------------------------------------------------------------------------------------
 
 ## 📷 Preview
 
