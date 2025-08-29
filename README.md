@@ -52,12 +52,15 @@ Output csv file:
 
 Now, we have 2 csv files prepared to load into Power BI.
 
+----------------------------------------------------------------------------------------------------------------
 ## 📷 Preview
 
-**Dashboard Screenshot**
+
 **Worksheet 1- Portfolio Insights**
 
 <img width="1541" height="872" alt="image" src="https://github.com/user-attachments/assets/b7423e84-041b-4592-8fe8-a51e783ccfc9" />
+
+
 
 
 **Worksheet 2- Trends**
