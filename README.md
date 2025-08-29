@@ -21,3 +21,28 @@ Provide insights about each stock and establish correlation in stock price movem
 ## 📂 Files
 - 'Portfolio Analyzer AngelOne.pbix' - Power BI file
 - 'Portfolio Analyzer AngelOne.pdf' - Exported pdf 
+- 'PreProcessing_1.py' - Pre processing Python file
+- 'Companies_with_tickers.csv' - Sample input file to Preprocessing_1.py
+- 'nse_closing_prices.csv' - Ouput file from Preprocessing_1.py - Input to Power BI
+- 'Holdings.csv'- Report file downloaded and edited to use in Power BI
+
+## 📊 Data Handling and Preprocessing
+**Step-1** 
+1. Download Compiled final report from AngelOne app or website.
+2. Create a new CSV and paste the data from Equity tab from Equity Holding Details onwards.
+3. The new csv should look like this:
+ <img width="940" height="113" alt="image" src="https://github.com/user-attachments/assets/27e64767-ed32-4d3c-b422-d1c6df4aac98" />
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
