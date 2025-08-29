@@ -27,11 +27,45 @@ Provide insights about each stock and establish correlation in stock price movem
 - 'Holdings.csv'- Report file downloaded and edited to use in Power BI
 
 ## 📊 Data Handling and Preprocessing
-**Step-1** 
+**Step-1** **Prepare Holdings File*
 1. Download Compiled final report from AngelOne app or website.
 2. Create a new CSV and paste the data from Equity tab from Equity Holding Details onwards.
-3. The new csv should look like this:
- <img width="940" height="113" alt="image" src="https://github.com/user-attachments/assets/27e64767-ed32-4d3c-b422-d1c6df4aac98" />
+4. Add the Ticker column and add Ticker name of each Script and save the file as **Holdings.csv*.
+5. The new csv should look like this:
+   
+ <img width="940" height="113" alt="image" src="https://github.com/user-attachments/assets/f2e94524-cf75-4528-b360-43087b0b47f6" />
+
+
+**Step-2** **Prepare nse closing price history data*
+Prerequisite- Prepare |Company|Ticker| csv file containing each company present in the Portfolio and it's respective Ticker value.
+
+<img width="846" height="773" alt="image" src="https://github.com/user-attachments/assets/6dff72b7-ce1a-4b57-bd7e-958df646d405" />
+
+
+1. Keep the python script **PreProcessing.py* in the same folder as csv file and run the script.
+2. The history data of closing price can be customized according to user input. By default, it is 5 years. 
+3. This generates a csv file named- **nse_closing_prices.csv* which is Input to Power BI.
+   
+Output csv file:
+<img width="359" height="503" alt="image" src="https://github.com/user-attachments/assets/2321ac1b-6ef6-4191-b70d-372dc3faa6b2" />
+
+
+Now, we have 2 csv files prepared to load into Power BI.
+
+## 📷 Preview
+
+**Dashboard Screenshot**
+**Worksheet 1- Portfolio Insights**
+
+<img width="1541" height="872" alt="image" src="https://github.com/user-attachments/assets/b7423e84-041b-4592-8fe8-a51e783ccfc9" />
+
+
+**Worksheet 2- Trends**
+
+<img width="1245" height="706" alt="image" src="https://github.com/user-attachments/assets/0d4a7060-2cf7-4cbd-b68c-bced5ee30e79" />
+
+
+
  
 
 
